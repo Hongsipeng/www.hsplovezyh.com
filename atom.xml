@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>二月十三</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/"/>
+  <updated>2020-03-06T08:43:13.304Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name>Hongsipeng</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>送给你们的信</title>
+    <link href="/2020/02/13/hellomyfriend/"/>
+    <id>/2020/02/13/hellomyfriend/</id>
+    <published>2020-02-13T05:14:20.000Z</published>
+    <updated>2020-03-06T08:43:13.304Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;致我亲爱的朋友们:&lt;br&gt;        你们好！&lt;br&gt;        欢迎来到我们的小家，这里是洪先生和詹小姐的专属网站——二月十三。&lt;br&gt;       
+        
+      
+    
+    </summary>
+    
+      <category term="我们的故事" scheme="/categories/%E6%88%91%E4%BB%AC%E7%9A%84%E6%95%85%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+</feed>
